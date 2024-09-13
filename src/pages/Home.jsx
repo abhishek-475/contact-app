@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Contacts from "../components/Contacts";
-import AddContact from "../components/addContact"; // Ensure correct casing
+import AddContact from "../components/AddContact"; // Ensure correct casing
 import { Row, Col } from "react-bootstrap";
 import { Link } from "react-router-dom";
 
